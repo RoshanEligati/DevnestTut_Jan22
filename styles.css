@@ -4,3 +4,14 @@
     border: 2px solid red;
     background-color: gold;
 }
+.box{
+    height: 400px;
+    width: 400px;
+    background-color: green;
+    padding: 16px;
+}
+.child{
+    height: 50%;
+    width: 50%;
+    background-color: aqua;
+}
